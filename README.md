@@ -19,7 +19,7 @@
 - shared_preferences
 
 ## 📸 ScreenShots
-| Ecommerce                                      | Application                                |
+| BMI                                            | Application                                |
 | -----------------------------------------      | -------------------------------------------|
 | <img src="screen_shot/1.jpg" width="400">      | <img src="screen_shot/2.jpg" width="400">  |
 | <img src="screen_shot/3.jpg" width="400">      | <img src="screen_shot/4.jpg" width="400">  |
